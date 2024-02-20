@@ -3,7 +3,7 @@
 This repository contains a project developed in NodeJS for the WAD Exam
 
 Cloning the project: 
-git clone https://github.com/chintan-golakiya/online-exam-portal.git
+git clone https://github.com/gisgarme/nodejs-sample-project
 
 Installing dependencies: 
 npm install
